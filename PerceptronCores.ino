@@ -1,8 +1,3 @@
-// Prof. André Gustavo Schaeffer
-// UFFS - Campus Erechim(RS)
-// Este programa foi criado para fins educativos e NÃO está protegido por nenhum direito autoral.
-// Seja livre!
-
 #define pinoRed          6  
 #define pinoGreen        9
 #define pinoBlue        10
